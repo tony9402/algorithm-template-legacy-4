@@ -28,3 +28,19 @@
  - [ ] set
  - [ ] algorithm
 
+# 심화 자료구조
+ - [ ] Segment Tree
+ - [ ] Fenwick Tree
+ - [ ] Segment Tree with Lazy Propagation
+ - [ ] Segment Tree Beats
+ - [ ] Persisent Segment Tree
+ - [ ] Li Chao Tree
+ - [ ] Heavy-Light Decomposition
+ - [ ] Centroid 
+ - [ ] BST
+ - [ ] Merge Sort Tree
+ - [ ] Splay
+ - [ ] Dynamic Segment Tree
+ - [ ] 2D Segment Tree
+ - [ ] 2D Fenwick Tree
+ - [ ] Rope
