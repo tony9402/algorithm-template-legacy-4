@@ -16,7 +16,7 @@
  - [ ] Z-algorithm
  - [ ] KMP
  - [ ] Trie
- - [ ] SCC
+ - [x] SCC
  - [ ] 유클리드 호제법
  - [ ] CCW
  - [ ] Convex Hull
