@@ -1,7 +1,7 @@
 # Tags
 
- - [ ] Segment Tree
- - [ ] Segment Tree with Lazy Propagation
+ - [x] Segment Tree
+ - [x] Segment Tree with Lazy Propagation
  - [ ] Segment Tree Beats
  - [ ] HLD
  - [ ] LCA
