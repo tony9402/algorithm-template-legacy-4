@@ -5,7 +5,7 @@
  - [ ] Segment Tree Beats
  - [ ] HLD
  - [ ] LCA
- - [ ] Union Find
+ - [x] Union Find
  - [ ] MCMF
  - [ ] 플로우 (디닉)
  - [ ] 이분 매칭
