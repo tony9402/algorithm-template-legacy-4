@@ -11,7 +11,7 @@
  - [ ] 이분 매칭
  - [ ] L-R Flow
  - [ ] FFT
- - [ ] NTT
+ - [x] NTT
  - [ ] 에라토스테네스
  - [ ] Z-algorithm
  - [ ] KMP
