@@ -7,7 +7,7 @@
  - [ ] LCA
  - [x] Union Find
  - [ ] MCMF
- - [ ] 플로우 (디닉)
+ - [x] 플로우 (디닉)
  - [ ] 이분 매칭
  - [ ] L-R Flow
  - [ ] FFT
