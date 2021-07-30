@@ -1,3 +1,8 @@
+
+# BACKUP
+
+<details>
+  <summary>자세히</summary>
 # 자료구조
 
 - 이름
@@ -44,3 +49,4 @@
  - [ ] 2D Segment Tree
  - [ ] 2D Fenwick Tree
  - [ ] Rope
+</details>
